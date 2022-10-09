@@ -1,4 +1,4 @@
-# foxspace-api-docs
+# Foxspace Official API Documentation
 Official Foxspace API Documentation
 
 This repo contains the official Foxspace API documentation. Before submitting pull-requests, please remember to fully read the [Contributing]() guidelines.
